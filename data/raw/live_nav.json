@@ -1,0 +1,42 @@
+{
+    "HDFC Top 100 Direct": {
+        "scheme_code": "125497",
+        "house": "SBI Mutual Fund",
+        "latest_nav": {
+            "date": "24-07-2026",
+            "nav": "204.85350"
+        }
+    },
+    "SBI Bluechip": {
+        "scheme_code": "119551",
+        "house": "Aditya Birla Sun Life Mutual Fund",
+        "latest_nav": {
+            "date": "24-07-2026",
+            "nav": "106.59610"
+        }
+    },
+    "ICICI Bluechip": {
+        "scheme_code": "120503",
+        "house": "Axis Mutual Fund",
+        "latest_nav": {
+            "date": "24-07-2026",
+            "nav": "108.04840"
+        }
+    },
+    "Nippon Large Cap": {
+        "scheme_code": "118632",
+        "house": "Nippon India Mutual Fund",
+        "latest_nav": {
+            "date": "24-07-2026",
+            "nav": "99.32730"
+        }
+    },
+    "Axis Bluechip": {
+        "scheme_code": "119092",
+        "house": "HDFC Mutual Fund",
+        "latest_nav": {
+            "date": "24-07-2026",
+            "nav": "6242.16520"
+        }
+    }
+}
