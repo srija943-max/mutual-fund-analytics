@@ -1,2 +1,1 @@
-# mutual-fund-analytics
-Mutual Fund Analytics project for BlueStock Fintech Data Analyst Internship.
+# Bluestock Mutual Fund Analytics Capstone Project\n\nEnd-to-end data analytics capstone project for mutual fund insights.\n\n## Run Pipeline\n```bash\npython run_pipeline.py\n```
