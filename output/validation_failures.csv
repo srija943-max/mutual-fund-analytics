@@ -1,0 +1,5 @@
+rule_id,rule_name,violations,severity,status
+DQ-01,PK Uniqueness,0,CRITICAL,PASSED
+DQ-02,FK Integrity,0,CRITICAL,PASSED
+DQ-04,BS Balance Diff < 1%,0,CRITICAL,PASSED
+DQ-06,Positive Sales Check,0,WARNING,PASSED

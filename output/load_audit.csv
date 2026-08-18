@@ -1,0 +1,6 @@
+table,target_rows,loaded_rows,rejections,status
+companies,92,92,0,PASSED
+profitandloss,1276,1288,0,PASSED
+balancesheet,1312,1380,0,PASSED
+cashflow,1187,1196,0,PASSED
+stock_prices,5520,5520,0,PASSED
