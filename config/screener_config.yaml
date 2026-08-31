@@ -1,0 +1,25 @@
+presets:
+  Quality Compounder:
+    roe_min: 15.0
+    de_max: 1.0
+    fcf_min: 0.0
+    rev_cagr_5yr_min: 10.0
+  Value Pick:
+    pe_max: 20.0
+    pb_max: 3.0
+    de_max: 2.0
+    div_yield_min: 1.0
+  Growth Accelerator:
+    pat_cagr_5yr_min: 20.0
+    rev_cagr_5yr_min: 15.0
+    de_max: 2.0
+  Dividend Champion:
+    div_yield_min: 2.0
+    div_payout_max: 80.0
+    fcf_min: 0.0
+  Debt-Free Blue Chip:
+    de_max: 0.0
+    roe_min: 12.0
+  Turnaround Watch:
+    rev_cagr_5yr_min: 10.0
+    fcf_min: 0.0
