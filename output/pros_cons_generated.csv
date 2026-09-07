@@ -1,0 +1,185 @@
+company_id,type,rule_id,text,confidence_pct
+1,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+1,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+2,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+2,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+3,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+3,con,CON_01,Elevated debt-to-equity ratio warrants close leverage monitoring.,85
+4,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+4,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+5,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+5,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+6,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+6,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+7,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+7,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+8,pro,PRO_03,Demonstrates operational resilience and stable market presence.,75
+8,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+9,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+9,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+10,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+10,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+11,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+11,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+12,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+12,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+13,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+13,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+14,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+14,con,CON_01,Elevated debt-to-equity ratio warrants close leverage monitoring.,85
+15,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+15,con,CON_01,Elevated debt-to-equity ratio warrants close leverage monitoring.,85
+16,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+16,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+17,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+17,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+18,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+18,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+19,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+19,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+20,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+20,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+21,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+21,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+22,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+22,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+23,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+23,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+24,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+24,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+25,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+25,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+26,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+26,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+27,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+27,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+28,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+28,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+29,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+29,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+30,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+30,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+31,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+31,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+32,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+32,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+33,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+33,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+34,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+34,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+35,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+35,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+36,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+36,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+37,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+37,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+38,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+38,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+39,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+39,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+40,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+40,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+41,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+41,con,CON_01,Elevated debt-to-equity ratio warrants close leverage monitoring.,85
+42,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+42,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+43,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+43,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+44,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+44,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+45,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+45,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+46,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+46,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+47,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+47,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+48,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+48,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+49,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+49,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+50,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+50,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+51,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+51,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+52,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+52,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+53,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+53,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+54,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+54,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+55,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+55,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+56,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+56,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+57,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+57,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+58,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+58,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+59,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+59,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+60,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+60,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+61,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+61,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+62,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+62,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+63,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+63,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+64,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+64,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+65,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+65,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+66,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+66,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+67,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+67,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+68,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+68,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+69,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+69,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+70,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+70,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+71,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+71,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+72,pro,PRO_03,Demonstrates operational resilience and stable market presence.,75
+72,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+73,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+73,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+74,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+74,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+75,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+75,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+76,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+76,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+77,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+77,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+78,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+78,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+79,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+79,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+80,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+80,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+81,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+81,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+82,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+82,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+83,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+83,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+84,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+84,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+85,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+85,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+86,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+86,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+87,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+87,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+88,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+88,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+89,pro,PRO_04,Revenue growing at healthy CAGR indicates business momentum.,82
+89,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+90,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+90,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+91,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+91,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72
+92,pro,PRO_01,Consistently high return on equity demonstrates strong capital efficiency.,88
+92,con,CON_03,Operating margins sensitive to raw material and operational overhead cycles.,72

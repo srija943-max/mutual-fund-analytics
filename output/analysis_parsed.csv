@@ -1,0 +1,277 @@
+company_id,metric_type,period_years,value_pct
+1,Sales Growth,5,20.97
+1,Profit Growth,5,23.88
+1,ROE,5,19.78
+2,Sales Growth,5,17.24
+2,Profit Growth,5,21.46
+2,ROE,5,21.87
+3,Sales Growth,5,11.29
+3,Profit Growth,5,15.83
+3,ROE,5,40.96
+4,Sales Growth,5,15.88
+4,Profit Growth,5,16.29
+4,ROE,5,10.95
+5,Sales Growth,5,15.07
+5,Profit Growth,5,22.38
+5,ROE,5,133.36
+6,Sales Growth,5,20.88
+6,Profit Growth,5,20.98
+6,ROE,5,11.73
+7,Sales Growth,5,16.15
+7,Profit Growth,5,15.04
+7,ROE,5,18.53
+8,Sales Growth,5,8.76
+8,Profit Growth,5,13.02
+8,ROE,5,12.67
+9,Sales Growth,5,12.64
+9,Profit Growth,5,13.48
+9,ROE,5,26.73
+10,Sales Growth,5,10.57
+10,Profit Growth,5,23.31
+10,ROE,5,4.97
+11,Sales Growth,5,20.94
+11,Profit Growth,5,18.6
+11,ROE,5,15.38
+12,Sales Growth,5,16.68
+12,Profit Growth,5,23.99
+12,ROE,5,59.1
+13,Sales Growth,5,10.22
+13,Profit Growth,5,19.2
+13,ROE,5,14.88
+14,Sales Growth,5,21.29
+14,Profit Growth,5,17.62
+14,ROE,5,59.57
+15,Sales Growth,5,9.67
+15,Profit Growth,5,10.89
+15,ROE,5,15.59
+16,Sales Growth,5,14.68
+16,Profit Growth,5,24.81
+16,ROE,5,43.99
+17,Sales Growth,5,8.38
+17,Profit Growth,5,23.0
+17,ROE,5,36.61
+18,Sales Growth,5,8.22
+18,Profit Growth,5,21.97
+18,ROE,5,41.27
+19,Sales Growth,5,14.86
+19,Profit Growth,5,23.27
+19,ROE,5,25.22
+20,Sales Growth,5,15.8
+20,Profit Growth,5,12.98
+20,ROE,5,177.97
+21,Sales Growth,5,15.24
+21,Profit Growth,5,11.06
+21,ROE,5,21.59
+22,Sales Growth,5,10.29
+22,Profit Growth,5,12.05
+22,ROE,5,27.12
+23,Sales Growth,5,19.67
+23,Profit Growth,5,18.69
+23,ROE,5,83.18
+24,Sales Growth,5,11.58
+24,Profit Growth,5,19.73
+24,ROE,5,65.75
+25,Sales Growth,5,15.6
+25,Profit Growth,5,14.7
+25,ROE,5,27.4
+26,Sales Growth,5,20.14
+26,Profit Growth,5,21.42
+26,ROE,5,5.82
+27,Sales Growth,5,19.51
+27,Profit Growth,5,22.92
+27,ROE,5,62.41
+28,Sales Growth,5,8.94
+28,Profit Growth,5,12.97
+28,ROE,5,73.27
+29,Sales Growth,5,11.08
+29,Profit Growth,5,10.48
+29,ROE,5,20.5
+30,Sales Growth,5,16.38
+30,Profit Growth,5,16.42
+30,ROE,5,9.6
+31,Sales Growth,5,21.29
+31,Profit Growth,5,18.04
+31,ROE,5,48.55
+32,Sales Growth,5,8.87
+32,Profit Growth,5,15.1
+32,ROE,5,92.26
+33,Sales Growth,5,19.53
+33,Profit Growth,5,15.25
+33,ROE,5,32.19
+34,Sales Growth,5,17.59
+34,Profit Growth,5,24.92
+34,ROE,5,14.27
+35,Sales Growth,5,15.93
+35,Profit Growth,5,22.65
+35,ROE,5,20.11
+36,Sales Growth,5,15.5
+36,Profit Growth,5,18.34
+36,ROE,5,15.61
+37,Sales Growth,5,20.83
+37,Profit Growth,5,10.23
+37,ROE,5,19.94
+38,Sales Growth,5,18.69
+38,Profit Growth,5,14.74
+38,ROE,5,10.56
+39,Sales Growth,5,13.46
+39,Profit Growth,5,20.91
+39,ROE,5,119.26
+40,Sales Growth,5,17.87
+40,Profit Growth,5,16.72
+40,ROE,5,21.82
+41,Sales Growth,5,9.88
+41,Profit Growth,5,16.1
+41,ROE,5,70.0
+42,Sales Growth,5,14.22
+42,Profit Growth,5,10.33
+42,ROE,5,43.76
+43,Sales Growth,5,19.4
+43,Profit Growth,5,12.73
+43,ROE,5,34.85
+44,Sales Growth,5,19.26
+44,Profit Growth,5,18.5
+44,ROE,5,22.72
+45,Sales Growth,5,18.87
+45,Profit Growth,5,22.85
+45,ROE,5,4.81
+46,Sales Growth,5,19.26
+46,Profit Growth,5,11.71
+46,ROE,5,19.6
+47,Sales Growth,5,14.35
+47,Profit Growth,5,21.12
+47,ROE,5,72.03
+48,Sales Growth,5,18.61
+48,Profit Growth,5,17.94
+48,ROE,5,12.95
+49,Sales Growth,5,17.66
+49,Profit Growth,5,23.36
+49,ROE,5,55.78
+50,Sales Growth,5,21.47
+50,Profit Growth,5,10.09
+50,ROE,5,77.28
+51,Sales Growth,5,20.09
+51,Profit Growth,5,19.98
+51,ROE,5,46.67
+52,Sales Growth,5,19.63
+52,Profit Growth,5,19.39
+52,ROE,5,34.05
+53,Sales Growth,5,10.58
+53,Profit Growth,5,15.53
+53,ROE,5,4.96
+54,Sales Growth,5,20.12
+54,Profit Growth,5,18.23
+54,ROE,5,76.63
+55,Sales Growth,5,10.67
+55,Profit Growth,5,12.96
+55,ROE,5,53.96
+56,Sales Growth,5,15.45
+56,Profit Growth,5,12.63
+56,ROE,5,29.41
+57,Sales Growth,5,15.33
+57,Profit Growth,5,22.62
+57,ROE,5,27.82
+58,Sales Growth,5,12.32
+58,Profit Growth,5,18.3
+58,ROE,5,23.81
+59,Sales Growth,5,10.56
+59,Profit Growth,5,11.09
+59,ROE,5,60.97
+60,Sales Growth,5,21.69
+60,Profit Growth,5,13.78
+60,ROE,5,10.19
+61,Sales Growth,5,21.47
+61,Profit Growth,5,11.84
+61,ROE,5,4.67
+62,Sales Growth,5,14.9
+62,Profit Growth,5,18.89
+62,ROE,5,44.1
+63,Sales Growth,5,12.13
+63,Profit Growth,5,10.38
+63,ROE,5,29.68
+64,Sales Growth,5,8.48
+64,Profit Growth,5,14.43
+64,ROE,5,16.84
+65,Sales Growth,5,20.43
+65,Profit Growth,5,23.04
+65,ROE,5,16.13
+66,Sales Growth,5,12.8
+66,Profit Growth,5,20.47
+66,ROE,5,59.33
+67,Sales Growth,5,19.48
+67,Profit Growth,5,20.16
+67,ROE,5,13.03
+68,Sales Growth,5,16.44
+68,Profit Growth,5,16.38
+68,ROE,5,8.48
+69,Sales Growth,5,13.63
+69,Profit Growth,5,18.59
+69,ROE,5,63.68
+70,Sales Growth,5,17.81
+70,Profit Growth,5,14.08
+70,ROE,5,39.77
+71,Sales Growth,5,19.77
+71,Profit Growth,5,24.45
+71,ROE,5,10.34
+72,Sales Growth,5,8.51
+72,Profit Growth,5,17.22
+72,ROE,5,11.76
+73,Sales Growth,5,9.98
+73,Profit Growth,5,18.7
+73,ROE,5,53.85
+74,Sales Growth,5,13.08
+74,Profit Growth,5,17.02
+74,ROE,5,18.0
+75,Sales Growth,5,19.92
+75,Profit Growth,5,16.24
+75,ROE,5,22.92
+76,Sales Growth,5,15.65
+76,Profit Growth,5,24.14
+76,ROE,5,25.83
+77,Sales Growth,5,11.85
+77,Profit Growth,5,21.53
+77,ROE,5,56.68
+78,Sales Growth,5,15.49
+78,Profit Growth,5,16.47
+78,ROE,5,25.14
+79,Sales Growth,5,12.32
+79,Profit Growth,5,21.87
+79,ROE,5,20.56
+80,Sales Growth,5,19.92
+80,Profit Growth,5,15.17
+80,ROE,5,5.1
+81,Sales Growth,5,17.12
+81,Profit Growth,5,10.97
+81,ROE,5,31.12
+82,Sales Growth,5,9.42
+82,Profit Growth,5,19.44
+82,ROE,5,65.65
+83,Sales Growth,5,14.21
+83,Profit Growth,5,20.32
+83,ROE,5,74.17
+84,Sales Growth,5,10.38
+84,Profit Growth,5,14.24
+84,ROE,5,14.97
+85,Sales Growth,5,21.72
+85,Profit Growth,5,15.28
+85,ROE,5,25.4
+86,Sales Growth,5,20.6
+86,Profit Growth,5,11.57
+86,ROE,5,45.35
+87,Sales Growth,5,14.99
+87,Profit Growth,5,23.42
+87,ROE,5,70.81
+88,Sales Growth,5,17.07
+88,Profit Growth,5,11.45
+88,ROE,5,16.43
+89,Sales Growth,5,20.96
+89,Profit Growth,5,16.0
+89,ROE,5,9.76
+90,Sales Growth,5,18.27
+90,Profit Growth,5,14.88
+90,ROE,5,107.67
+91,Sales Growth,5,12.06
+91,Profit Growth,5,12.12
+91,ROE,5,144.9
+92,Sales Growth,5,18.18
+92,Profit Growth,5,14.75
+92,ROE,5,30.82
