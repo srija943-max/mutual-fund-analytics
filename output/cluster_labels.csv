@@ -1,0 +1,93 @@
+company_id,ticker,company_name,cluster_id,cluster_name,distance_from_centroid
+1,TICKER_01,Company 01,3,Distressed or Turnaround,1.8398
+2,TICKER_02,Company 02,2,Value Cyclicals,1.7683
+3,TICKER_03,Company 03,4,Emerging Growth,1.4793
+4,TICKER_04,Company 04,2,Value Cyclicals,0.9546
+5,TICKER_05,Company 05,0,High-Quality Compounders,0.7649
+6,TICKER_06,Company 06,2,Value Cyclicals,1.079
+7,TICKER_07,Company 07,2,Value Cyclicals,1.1053
+8,TICKER_08,Company 08,1,Defensive Dividend Payers,1.5688
+9,TICKER_09,Company 09,4,Emerging Growth,1.216
+10,TICKER_10,Company 10,1,Defensive Dividend Payers,1.427
+11,TICKER_11,Company 11,3,Distressed or Turnaround,1.9082
+12,TICKER_12,Company 12,4,Emerging Growth,0.9725
+13,TICKER_13,Company 13,1,Defensive Dividend Payers,0.925
+14,TICKER_14,Company 14,4,Emerging Growth,2.1348
+15,TICKER_15,Company 15,4,Emerging Growth,1.5853
+16,TICKER_16,Company 16,3,Distressed or Turnaround,0.8575
+17,TICKER_17,Company 17,1,Defensive Dividend Payers,0.9247
+18,TICKER_18,Company 18,3,Distressed or Turnaround,1.903
+19,TICKER_19,Company 19,1,Defensive Dividend Payers,1.2809
+20,TICKER_20,Company 20,0,High-Quality Compounders,2.1594
+21,TICKER_21,Company 21,2,Value Cyclicals,1.0194
+22,TICKER_22,Company 22,1,Defensive Dividend Payers,0.9981
+23,TICKER_23,Company 23,3,Distressed or Turnaround,1.5023
+24,TICKER_24,Company 24,3,Distressed or Turnaround,1.175
+25,TICKER_25,Company 25,2,Value Cyclicals,0.9746
+26,TICKER_26,Company 26,2,Value Cyclicals,1.0694
+27,TICKER_27,Company 27,3,Distressed or Turnaround,1.0955
+28,TICKER_28,Company 28,3,Distressed or Turnaround,1.7174
+29,TICKER_29,Company 29,1,Defensive Dividend Payers,1.0062
+30,TICKER_30,Company 30,2,Value Cyclicals,1.1755
+31,TICKER_31,Company 31,2,Value Cyclicals,2.003
+32,TICKER_32,Company 32,4,Emerging Growth,1.8432
+33,TICKER_33,Company 33,2,Value Cyclicals,0.7169
+34,TICKER_34,Company 34,2,Value Cyclicals,1.9667
+35,TICKER_35,Company 35,2,Value Cyclicals,1.1341
+36,TICKER_36,Company 36,2,Value Cyclicals,0.9812
+37,TICKER_37,Company 37,2,Value Cyclicals,1.7417
+38,TICKER_38,Company 38,2,Value Cyclicals,1.1926
+39,TICKER_39,Company 39,0,High-Quality Compounders,1.461
+40,TICKER_40,Company 40,2,Value Cyclicals,0.9251
+41,TICKER_41,Company 41,4,Emerging Growth,1.5664
+42,TICKER_42,Company 42,3,Distressed or Turnaround,0.964
+43,TICKER_43,Company 43,4,Emerging Growth,1.6324
+44,TICKER_44,Company 44,2,Value Cyclicals,1.0306
+45,TICKER_45,Company 45,2,Value Cyclicals,0.8231
+46,TICKER_46,Company 46,4,Emerging Growth,1.8507
+47,TICKER_47,Company 47,3,Distressed or Turnaround,1.4814
+48,TICKER_48,Company 48,2,Value Cyclicals,0.737
+49,TICKER_49,Company 49,2,Value Cyclicals,1.292
+50,TICKER_50,Company 50,3,Distressed or Turnaround,1.9256
+51,TICKER_51,Company 51,2,Value Cyclicals,1.516
+52,TICKER_52,Company 52,2,Value Cyclicals,0.7599
+53,TICKER_53,Company 53,1,Defensive Dividend Payers,1.9092
+54,TICKER_54,Company 54,2,Value Cyclicals,1.8046
+55,TICKER_55,Company 55,4,Emerging Growth,0.8708
+56,TICKER_56,Company 56,3,Distressed or Turnaround,1.0538
+57,TICKER_57,Company 57,2,Value Cyclicals,1.148
+58,TICKER_58,Company 58,1,Defensive Dividend Payers,0.3991
+59,TICKER_59,Company 59,4,Emerging Growth,1.1914
+60,TICKER_60,Company 60,2,Value Cyclicals,1.5216
+61,TICKER_61,Company 61,2,Value Cyclicals,1.3649
+62,TICKER_62,Company 62,3,Distressed or Turnaround,0.9482
+63,TICKER_63,Company 63,3,Distressed or Turnaround,1.0981
+64,TICKER_64,Company 64,1,Defensive Dividend Payers,0.9453
+65,TICKER_65,Company 65,2,Value Cyclicals,0.6436
+66,TICKER_66,Company 66,4,Emerging Growth,0.9622
+67,TICKER_67,Company 67,2,Value Cyclicals,0.8045
+68,TICKER_68,Company 68,2,Value Cyclicals,0.9236
+69,TICKER_69,Company 69,1,Defensive Dividend Payers,1.536
+70,TICKER_70,Company 70,2,Value Cyclicals,1.1614
+71,TICKER_71,Company 71,2,Value Cyclicals,0.6128
+72,TICKER_72,Company 72,1,Defensive Dividend Payers,1.0454
+73,TICKER_73,Company 73,3,Distressed or Turnaround,1.4087
+74,TICKER_74,Company 74,1,Defensive Dividend Payers,0.9115
+75,TICKER_75,Company 75,2,Value Cyclicals,0.3806
+76,TICKER_76,Company 76,2,Value Cyclicals,1.0521
+77,TICKER_77,Company 77,3,Distressed or Turnaround,1.2275
+78,TICKER_78,Company 78,2,Value Cyclicals,0.8843
+79,TICKER_79,Company 79,1,Defensive Dividend Payers,0.4524
+80,TICKER_80,Company 80,2,Value Cyclicals,1.2567
+81,TICKER_81,Company 81,3,Distressed or Turnaround,1.0422
+82,TICKER_82,Company 82,4,Emerging Growth,1.349
+83,TICKER_83,Company 83,3,Distressed or Turnaround,1.133
+84,TICKER_84,Company 84,1,Defensive Dividend Payers,1.9141
+85,TICKER_85,Company 85,2,Value Cyclicals,1.2423
+86,TICKER_86,Company 86,3,Distressed or Turnaround,1.8872
+87,TICKER_87,Company 87,1,Defensive Dividend Payers,1.7256
+88,TICKER_88,Company 88,2,Value Cyclicals,1.3937
+89,TICKER_89,Company 89,2,Value Cyclicals,1.0691
+90,TICKER_90,Company 90,3,Distressed or Turnaround,2.0614
+91,TICKER_91,Company 91,0,High-Quality Compounders,0.8146
+92,TICKER_92,Company 92,2,Value Cyclicals,0.833

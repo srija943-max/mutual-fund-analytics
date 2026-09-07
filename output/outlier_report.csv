@@ -1,0 +1,3 @@
+company_id,ticker,metric,value
+20,TICKER_20,return_on_equity_pct,177.97
+91,TICKER_91,return_on_equity_pct,144.9
